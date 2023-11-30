@@ -1,5 +1,11 @@
 version: 1
-project:
-  title: Microplastic Transport Model
 site:
+  title: Microplastic Transport Model
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - jarmitage.curve.space
+project:
   title: Microplastic Transport Model
